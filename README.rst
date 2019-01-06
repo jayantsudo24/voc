@@ -37,7 +37,7 @@ What it does:
 It isn't a *completely* compliant Python 3.4 implementation - there are some
 language features (some builtin functions) that still need to be
 implemented, and there is only a bare bones standard library implementation.
-However, it is possible to convert simple Python programs, and even write
+However, it is possible to convert simple Python programs and even write
 simple Android applications.
 
 Tutorial
@@ -46,12 +46,12 @@ Tutorial
 To take VOC for a spin, run through the `Getting Started guide`_, then start
 with `the first tutorial`_.
 
-If you'd like to contribute to VOC development, we have a `guide for first time contributors`_.
+If you'd like to contribute to VOC development, we have a `guide for first-time contributors`_.
 
 .. _Getting Started guide: https://voc.readthedocs.io/en/latest/index.html
 .. _the first tutorial: https://voc.readthedocs.io/en/latest/tutorial/tutorial-0.html
 
-.. _guide for first time contributors: http://pybee.org/contributing/how/first-time/what/voc/
+.. _guide for first-time contributors: http://pybee.org/contributing/how/first-time/what/voc/
 
 Documentation
 -------------
@@ -64,7 +64,7 @@ Why "VOC"?
 The `Vereenigde Oostindische Compagnie (VOC)`_, or Dutch East India Company,
 is often considered to be the world's first multinational corporation. It was
 also the first company to issue shares, and facilitate the trading of those
-shares. It was granted a 21 year monopoly to carry out trade activities in
+shares. It was granted a 21-year monopoly to carry out trade activities in
 Asia, primarily the Spice Islands - the Dutch East Indies. They established a
 major trading port at Batavia - now Jakarta, on the island of Java (now part
 of Indonesia). As a result of their monopoly, the VOC became an incredibly
@@ -73,7 +73,7 @@ valuable company, issuing an 18% annual dividend for almost 200 years.
 VOC was... the world's first Enterprise using Java. (rimshot!)
 
 VOC is also a backronym for "Vestigial Output Compiler". Or "Vexing Obtuse
-Compiler". Or "Valuable Obscure Compiler". Or "Varigated Ocelot Calibrator".
+Compiler". Or "Valuable Obscure Compiler". Or "Variegated Ocelot Calibrator".
 It's your choice.
 
 .. _Vereenigde Oostindische Compagnie (VOC): https://en.wikipedia.org/wiki/Dutch_East_India_Company
